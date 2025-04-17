@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Infrastructure.Persistence.Entities
+namespace Domain.Entities
 {
     [Table("TB_HOST")]
     public class Host

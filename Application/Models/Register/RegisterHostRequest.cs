@@ -1,4 +1,4 @@
-﻿namespace API.Models.register
+﻿namespace Application.Models.Register
 {
     public class RegisterHostRequest
     {
